@@ -1,1 +1,1 @@
-The Vacation-Rental-Platform is a web application that connects property owners with travelers seeking short-term accommodations. Built using the MERN stack, it offers seamless user experiences for booking and listing rentals, complete with advanced search and filtering options.
+MERN Stack (MongoDB, Express, React, Node.js), JavaScript, HTML, CSS
