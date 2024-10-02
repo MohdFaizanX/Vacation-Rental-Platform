@@ -1,1 +1,1 @@
-MERN Stack (MongoDB, Express, React, Node.js), JavaScript, HTML, CSS
+MERN Stack (MongoDB, Express, React, Node.js), JavaScript, HTML, CSS)
